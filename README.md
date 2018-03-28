@@ -31,3 +31,13 @@ docker run --rm -p 5000:5000 --name chatbot sanjanamoghe/chatbot
 
 ## License
 This source is free to use, but docker does have a license.
+
+
+
+## Group members
+Prashant Dombale 15
+Mohnish Katware 30 
+Tanvi Kulkarni 36
+Sanjana Moghe 43
+Mahak Pancholi 51
+Shreesh Rao 58
